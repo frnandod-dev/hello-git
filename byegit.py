@@ -1,0 +1,1 @@
+print("Bye Git 1.0")
